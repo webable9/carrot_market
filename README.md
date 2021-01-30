@@ -1,4 +1,4 @@
-# carrot_market
+# flutter_carrot_market
 
 [Flutter / 플러터 ] 당근마켓 홈 화면을 플러터
 
