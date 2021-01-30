@@ -1,6 +1,8 @@
 # carrot_market
 
-Carrot Market
+[Flutter / 플러터 ] 당근마켓 홈 화면을 플러터
+
+https://www.youtube.com/watch?v=aYeBFDnPbkY
 
 ## Getting Started
 
